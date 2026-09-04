@@ -1,0 +1,21 @@
+ID,Prospect Business,Facility Type,Proposal Date,Attempts,Last Contact,Code,Outcome,Notes,Next Step,Rebid or Review Date
+001,Northline Medical Plaza,Medical clinic,2026-05-12,3,2026-09-02,RR,Review requested,"Facility manager confirmed the bid is still on her desk; wants to walk the second floor before deciding",Owner call scheduled,2026-09-09
+002,Cedar Ridge Business Park,Multi-tenant office,2026-04-28,3,2026-09-01,RR,Review requested,"Property manager changed in June; new manager had never seen the proposal, asked for a resend and a call","Resend proposal, then call",2026-09-08
+003,Valley Freight Terminal,Industrial / warehouse,2026-06-03,2,2026-08-31,RV,Revision requested,"Wants 3x/week instead of 5x/week and a separate price for the dock area",Owner to issue revised quote,2026-09-10
+004,Grace Community Church,Church,2026-03-17,4,2026-09-02,OP,Open pending,"Board votes on the facilities budget in October; proposal is one of two under review",Follow up after board vote,2026-10-14
+005,Sunview Dental Group,Dental office,2026-02-24,3,2026-08-28,RB,Rebid date,"Retained current janitorial vendor; contract renews annually in March",Add to March rebid calendar,2027-03-01
+006,Foothills Auto Group,Dealership,2026-05-05,3,2026-08-29,RB,Rebid date,"Signed a 12-month agreement with another provider in June; open to quoting again at renewal",Add to June rebid calendar,2027-06-01
+007,Desert Point Elementary,School,2026-04-09,3,2026-08-27,RB,Rebid date,"District handles custodial contracts on a fiscal-year cycle; RFP posts each April",Watch district RFP portal,2027-04-01
+008,Halstead Legal Offices,Professional office,2026-06-22,2,2026-08-26,WI,Won independently,"Owner had already signed this account in July; record was stale in the spreadsheet",Remove from open pipeline,
+009,Redrock Fitness Center,Gym / fitness,2026-03-30,3,2026-08-28,LI,Lost - incumbent,"Kept existing cleaner; satisfied with service, no interest in changing",Close record,
+010,Anderson Manufacturing,Industrial,2026-05-18,3,2026-08-31,LI,Lost - competitor,Selected a regional provider in July on scope breadth,Close record,
+011,Lakewood Family Practice,Medical clinic,2026-04-14,3,2026-08-25,LP,Lost - price,"Told us the monthly rate came in roughly 20% above the awarded bid","Close record; note pricing feedback",
+012,Pinnacle Title Company,Professional office,2026-06-11,2,2026-08-27,LT,Lost - timing / budget,"Office relocation postponed to Q1; no cleaning decision until the new lease is signed",Revisit in January,2027-01-15
+013,Copper Hills Apartments,Multi-family common areas,2026-02-19,4,2026-09-01,NR,No response,"Full approved sequence completed: three calls, two emails, one voicemail. No reply",Close record,
+014,Sierra Vista Urgent Care,Medical clinic,2026-03-06,4,2026-08-31,NR,No response,"Reached voicemail each attempt; gatekeeper would not transfer or confirm decision-maker",Close record,
+015,Talon Distribution,Warehouse,2026-05-27,3,2026-08-29,NR,No response,"Emails delivered and opened; no reply to any of the three touches",Close record,
+016,Whitfield Insurance Agency,Professional office,2026-04-21,3,2026-08-26,NR,No response,"No answer on the direct line; mailbox full on two attempts",Close record,
+017,Mesa Grande Event Center,Event venue,2026-06-30,3,2026-08-28,NR,No response,Seasonal closure through August per the outgoing voicemail greeting,Optional retry in October,2026-10-01
+018,Brightway Preschool,Childcare,2026-03-24,2,2026-08-25,BD,Bad data,"Number disconnected; the named contact no longer works there and no successor was identified",Needs new contact before any retry,
+019,Kestrel Property Services,Property management,2026-05-08,1,2026-08-24,DNC,Do not contact,"Contact asked to receive no further calls or emails. Suppressed immediately and permanently",Suppressed - do not re-contact,
+020,[Residential referral],Residential home,2026-07-02,0,,X,Ineligible,"Residential record; outside the qualified record standard. Returned to client at intake, not worked",Excluded from sprint scope,

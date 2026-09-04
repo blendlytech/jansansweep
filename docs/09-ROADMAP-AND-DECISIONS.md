@@ -140,5 +140,13 @@ Record every confirmed strategic change here with a date. This log overrides old
 |---|---|---|---|
 | 2026-09-03 | Founding price set at $199 for first 3 clients, $299 standard after | Balance credibility and speed to first sale | — |
 | 2026-09-03 | Scope capped at 20 records per sprint | Keep delivery to 5–7 founder hours | — |
+| 2026-09-03 | Payment method: PayPal invoice, no online checkout | Founder invoices directly; no processor integration needed pre-revenue | Stripe Checkout in `07-MARKETING-AND-WEBSITE.md` §11 |
+| 2026-09-03 | Public contact email is info@jansansweep.com | Role address rather than personal | clay@jansansweep.com |
+| 2026-09-03 | Public business location is Flagstaff, AZ | Matches the real mailing address; keeps the site and the legal pages consistent | Phoenix, AZ |
+| 2026-09-03 | Legal entity: R. Clay Mills, sole proprietor d/b/a JanSan Sweep, established May 2, 2025 | No LLC formed; revisit if liability exposure grows | — |
+| 2026-09-03 | Published mailing address is PO Box 2524, Rimrock, AZ 86335 | Keeps the home address off the public site and out of outreach email footers; box is in Rimrock while the business operates from Flagstaff | 1887 E Morengo |
+| 2026-09-03 | Legal pages effective September 4, 2026 | Target launch date; must move forward if the site is not live that day | — |
+| 2026-09-03 | Governing law Arizona, venue Coconino County | Follows the operating location (Flagstaff), not the Rimrock mailbox; counsel to confirm at review | — |
+| 2026-09-03 | Footer carries five legal links plus a no-tracking statement | Refund terms anchored for PayPal disputes; no-tracking line is true only while the site sets no cookies | Four-link footer |
 
 Add new rows chronologically. Do not delete prior rows — mark them superseded instead.

@@ -34,6 +34,10 @@ Pre-revenue validation. Zero paid clients as of the last update. The immediate o
 | `08-METRICS-AND-VALIDATION.md` | KPIs, formulas, validation experiments, pass/fail thresholds, stop/pivot rules | Reviewing performance or deciding whether to continue/pivot |
 | `09-ROADMAP-AND-DECISIONS.md` | 30-day plan, daily routine, risk register, hiring/build triggers, decision log | Planning the week or logging a confirmed decision |
 | `10-CLAUDE-PROMPTS.md` | Ready-to-use prompts for common conversation types | Starting a new chat for a specific purpose |
+| `11-CLAUDE-DESIGN-BUILD-PLAN.md` | Prompt sequence, brand tokens, and guardrails for building jansansweep.com in Claude Design | Building or revising the website |
+| `12-WEBSITE-LEGAL-PAGES-DRAFT.md` | Attorney-review drafts of the Privacy Policy, Terms of Service, Client Outreach Agreement, and Do-Not-Call Policy | Preparing the site's legal pages or briefing counsel |
+| `13-SAMPLE-OUTCOME-DASHBOARD.md` | Illustrative 20-record outcome dashboard, summary tiles, and rebid calendar, plus the required sample-data label | Showing prospects the report format, or building the client delivery template |
+| `14-WEBSITE-COPY-PASTE-KIT.md` | The seven Claude Design prompts fully assembled with approved copy and guardrails, ready to paste | Actually building the site, one pass at a time |
 
 ## Confirmed Decisions (Summary)
 

@@ -27,6 +27,17 @@ This document is operational guidance, not legal advice. Qualified counsel shoul
 - Review state rules before entering new jurisdictions
 - Do not record calls without reviewing applicable consent laws
 
+## Email Guardrails
+
+Sprint follow-up emails are commercial email and must carry, in every message:
+
+- Accurate sender name and reply-to address; no disguised headers
+- A subject line that reflects the actual content
+- A valid physical postal address — use `PO Box 2524, Rimrock, AZ 86335`, never the home address
+- A working opt-out instruction, honored immediately and permanently and logged to the suppression list
+
+No mass blasting, no purchased lists, no tracking pixels in outreach email.
+
 ## Data Governance
 
 ### Minimum Data

@@ -1,5 +1,5 @@
 ﻿**Document:** Marketing and Website Specification
-**Version:** 1.1
+**Version:** 1.2
 **Updated:** September 3, 2026
 **Status:** Active
 **Authority:** `00-START-HERE.md`
@@ -285,7 +285,7 @@ Because JanSan Sweep operates on pre-revenue validation (zero paid clients initi
 #### Pre-Proof Credibility Assets
 
 1. **Founder Bio & Accountability:** Put a face to the service—Clay's background in B2B cold calling, appointment setting, and sales pipeline organization. Include a direct business phone number and email.
-2. **Transparent Process Visuals:** Display a redacted sample Outcome Dashboard showing exact columns, disposition codes, and clean notes. Display the exact approved calling script so owners know what prospects will hear.
+2. **Transparent Process Visuals:** Display the sample Outcome Dashboard from `13-SAMPLE-OUTCOME-DASHBOARD.md`, showing exact columns, disposition codes, and clean notes. Because no sprint has been completed yet, its records are fictional examples and the page **must** carry the visible sample-data label defined in that document — presenting invented records as anonymized client results is prohibited. Display the exact approved calling script so owners know what prospects will hear.
 3. **The Qualified Record Standard:** Publish the data-eligibility rules publicly. This signals professionalism and shows the service protects the client's brand reputation.
 4. **Post-Validation Proof Roadmap (Phase 2):** As the first three $199 sprints complete, update this section with anonymized case studies (e.g., "20 dormant proposals worked: 2 review meetings scheduled, 3 future rebid dates logged, 8 dead records cleared"). Include verified owner quotes only with explicit written permission.
 
@@ -303,9 +303,15 @@ Embedded calendar widget (Cal.com / Calendly or equivalent). Pre-meeting qualify
 4. Approximately how many commercial proposals have you sent in the last 3–12 months? *(1–5 / 6–15 / 16–30 / 30+)*
 5. Do you currently have at least 10 unclosed proposals stored in email, spreadsheets, or bidding software? *(Yes / No / Not Sure)*
 
-#### Path B: Direct Sprint Checkout (For Ready Buyers)
+#### Path B: Direct Sprint Request (For Ready Buyers)
 
-Stripe Checkout link for $199 prepaid. Redirect to onboarding intake instructions upon payment confirmation.
+There is no online checkout. Payment is a **PayPal invoice sent by Clay** for the $199 prepaid sprint. The site collects the request; Clay invoices; the seven-day sprint begins once payment clears and intake records are received.
+
+Approved on-page language:
+
+> Request your Founding Sprint. Clay sends a PayPal invoice, and the seven-day clock starts once it's paid and your records are in.
+
+Do not publish a cart, a card form, a pricing toggle, "instant access," or payment trust badges. The site must never imply self-serve purchase.
 
 ---
 
@@ -314,8 +320,11 @@ Stripe Checkout link for $199 prepaid. Redirect to onboarding intake instruction
 - **Copyright:** © 2026 JanSan Sweep. All rights reserved.
 - **Business Description:** JanSan Sweep is an independent proposal follow-up and pipeline reactivation service for commercial cleaning companies.
 - **Compliance Statement:** All outreach is conducted manually via direct B2B communication on behalf of authorized clients. JanSan Sweep does not use automated telephone dialing systems, artificial or prerecorded voices, or unsolicited consumer outreach.
-- **Legal Links:** `Privacy Policy` | `Terms of Service` | `Client Outreach Agreement` | `Do-Not-Call Policy`
-- **Contact:** Clay | Phone: `[Business Phone]` | Email: `clay@jansansweep.com` | Location: Phoenix, AZ (Mountain Standard Time)
+- **Legal Links:** `Privacy Policy` | `Terms of Service` | `Refund Policy` | `Client Outreach Agreement` | `Do-Not-Call Policy`
+  - `Refund Policy` is an anchor link into Terms of Service §7, not a separate page. Published refund terms are the strongest evidence in a PayPal dispute on a prepaid sprint.
+- **Tracking Statement:** This site sets no advertising or analytics cookies and uses no third-party trackers.
+  - Remove this line if any cookie-setting embed is added — an inline scheduler widget is the likely trigger. See `12-WEBSITE-LEGAL-PAGES-DRAFT.md`, "What the Footer Is Actually Required to Carry."
+- **Contact:** Clay | Phone: `928-298-8405` | Email: `info@jansansweep.com` | Mail: `PO Box 2524, Rimrock, AZ 86335` | Location: Flagstaff, AZ (Mountain Standard Time)
 
 ---
 
